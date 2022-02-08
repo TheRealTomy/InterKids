@@ -51,7 +51,7 @@ class MainWindow(QMainWindow):
         self.browser.setUrl(QUrl('https://www.kiddle.co'))
 
     def music_btn(self):
-        self.browser.setUrl(QUrl('https://www.ñclassicsforkids.com'))
+        self.browser.setUrl(QUrl('https://www.classicsforkids.com'))
 
 
 app = QApplication(sys.argv)
